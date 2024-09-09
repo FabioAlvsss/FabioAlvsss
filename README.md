@@ -18,7 +18,19 @@
 <img  style= "border-radius:20px; margin-top:2px" align="center" alt ="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img style= "border-radius:20px; margin-top:2px" align="center" alt ="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img  style= "border-radius:20px; margin-top:2px" align="center" alt ="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+</div>
+
+### Projetos criados por mim em suas respectivas tecnologias
+<div>
+ <table>
+  <tr>
+    <td><a href="https://github.com/FabioAlvsss/Projetos/tree/main/SpringBoot"><img src="https://www.remoterocketship.com/_next/image?url=%2Fimages%2Fblog%2FSpring%20Boot-icon-for-blog.jpg&w=640&q=75" style="width:100px;height:100px;" alt="iconeSpringBoot"></a></td>
+    <td><a href="link2"><img src="https://www.svgrepo.com/show/353398/angular.svg" style="width:100px;height:100px;" alt="iconeAngular"></a></td>
+    <td><a href="link3"><img src="https://thumbs.dreamstime.com/b/vector-collection-web-development-shield-signs-html-css-javascript-isolated-icons-white-background-38571884.jpg" style="width:100px;height:100px;" alt="iconeHtmlCssJavaScript"></a></td>
+  </tr>
+</table>
 
 </div>
+
 
 #### Apaixonado por tecnologia que busca oportunidades de expandir ainda mais os seus conhecimentos na area de desenvolvimento.
