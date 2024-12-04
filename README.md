@@ -26,7 +26,7 @@
   <tr>
     <td><a href="https://github.com/FabioAlvsss/Projetos/tree/main/SpringBoot"><img src="https://www.remoterocketship.com/_next/image?url=%2Fimages%2Fblog%2FSpring%20Boot-icon-for-blog.jpg&w=640&q=75" style="width:100px;height:100px;" alt="iconeSpringBoot"></a></td>
     <td><a href="link2"><img src="https://www.svgrepo.com/show/353398/angular.svg" style="width:100px;height:100px;" alt="iconeAngular"></a></td>
-    <td><a href="link3"><img src="https://thumbs.dreamstime.com/b/vector-collection-web-development-shield-signs-html-css-javascript-isolated-icons-white-background-38571884.jpg" style="width:100px;height:100px;" alt="iconeHtmlCssJavaScript"></a></td>
+    <td><a href="https://github.com/FabioAlvsss/verbalEasy"><img src="https://thumbs.dreamstime.com/b/vector-collection-web-development-shield-signs-html-css-javascript-isolated-icons-white-background-38571884.jpg" style="width:100px;height:100px;" alt="iconeHtmlCssJavaScript"></a></td>
   </tr>
 </table>
 
